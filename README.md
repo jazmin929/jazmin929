@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jazmin929
+- 👋 Hi, I’m jazmin
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning dart language
 - 💞️ I’m looking to collaborate on Robotics and AI
